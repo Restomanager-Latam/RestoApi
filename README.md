@@ -28,7 +28,7 @@ las funcionalidades y costos. se describen las sigugientes funcionalidades para 
 ### **Recibir notificaciones automaticas**
 1. El usuario puede recibir notificaciones para evitar confusiones sobre reservas pendientes.
   
-   
+### **PARA RESTOMANAGER**   
 ### **Hacer Pedido desde QR Code**
 1. El usuario escanea un código QR en su mesa.
 2. Accede al menú digital y realiza su pedido.
@@ -97,8 +97,8 @@ las funcionalidades y costos. se describen las sigugientes funcionalidades para 
 
 5. **Sofia **  
    - **Rol:** UI/UX  
-   - **Correo:**   
-   - **LinkedIn:** []()
+   - **Correo:** sofiaplaisant@gmail.com  
+   - **LinkedIn:** [https://www.linkedin.com/in/sofia-plaisant/](https://www.linkedin.com/in/sofia-plaisant/)
 
 ## **Tecnologías**
 - **Frontend:**
