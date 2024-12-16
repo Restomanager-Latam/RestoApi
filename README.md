@@ -9,9 +9,21 @@ las funcionalidades y costos. se describen las sigugientes funcionalidades para 
 
 
 ### **Seleccionar un restaurante desde la guía**
-1. El usuario escanea un código QR en la mesa o mostrador de un restaurant.
+1. El usuario escanea un código QR .
 2. Accede a la guia digital y realiza su consulta de restaurantes.
-3. El cliente puede acceder a la informacion de los diferentes restaurantes leyendo sus reseñas y viendo su rating. 
+3. El cliente puede acceder a la informacion de los diferentes restaurantes leyendo sus reseñas y viendo su rating.
+
+### **Realizar reservas**
+1. El usuario puede consultar disponibilidad de las reservas.
+2. El usuario puede registrar la reserva.
+3. El usuario puede modificar reservas si es necesario.
+2..El usuario puede cancelar las reservas si es necesario.
+
+### **Realizar Pago de una Reserva y/o Pedido**
+1. El usuario puede consultar disponibilidad de las reservas.
+2. El usuario puede registrar la reserva.
+3. El usuario puede modificar reservas si es necesario.
+4. El usuario puede cancelar las reservas si es necesario.
 
 ### **Hacer Pedido desde QR Code**
 1. El usuario escanea un código QR en su mesa.
