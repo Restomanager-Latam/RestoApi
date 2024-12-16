@@ -25,6 +25,10 @@ las funcionalidades y costos. se describen las sigugientes funcionalidades para 
 3. El usuario puede modificar reservas si es necesario.
 4. El usuario puede cancelar las reservas si es necesario.
 
+### **Recibir notificaciones automaticas**
+1. El usuario puede recibir notificaciones para evitar confusiones sobre reservas pendientes.
+  
+   
 ### **Hacer Pedido desde QR Code**
 1. El usuario escanea un código QR en su mesa.
 2. Accede al menú digital y realiza su pedido.
